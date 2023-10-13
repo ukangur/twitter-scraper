@@ -28,6 +28,9 @@ If you're using git, you can clone the repository. If you're not, simply downloa
 ### Move ChromeDriver:
 After downloading ChromeDriver, place the chromedriver.exe (Windows) into the same directory as the code.
 
+### Log into Twitter on Chrome:
+As twitter now requires logging in to have access to the search function, you need to log into twitter with your user.
+
 ## Execution:
 ### Run the Script:
 Navigate to the directory containing the script in your terminal or command prompt, then run:
